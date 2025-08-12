@@ -1,2 +1,1 @@
-## Algorithm Problem Solving
-### SWEA문제를 풀며 기록
+## Algorithm Problem Solving - SWEA
