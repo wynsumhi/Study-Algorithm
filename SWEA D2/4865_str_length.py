@@ -1,0 +1,17 @@
+## 4865. [파이썬 S/W 문제해결 기본] 3일차 - 글자수
+
+'''
+[input]
+3
+XYPV
+EOGGXYPVSY
+STJJ
+HOFSTJPVPP
+ZYJZXZTIBSDG
+TTXGZYJZXZTIBSDGWQLW
+
+[output]
+#1 2
+#2 1
+#3 3
+'''
