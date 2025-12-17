@@ -1,11 +1,9 @@
-count  = [0] * 30
-for c in range(30):
-    count[c] = c + 1
+students = set(range(1, 31))
 
 for _ in range(28):
     n = int(input())
-    if n in count:
-        count.remove(n)
+    students.discard(n)
 
-for i in range(2):
-    print(count[i])
+result = sorted(students)
+print(result[0])
+print(result[1])
